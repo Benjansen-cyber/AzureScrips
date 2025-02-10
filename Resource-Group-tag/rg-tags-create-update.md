@@ -13,7 +13,7 @@
 # Obtener el id de todos los recursos dentro del grupo de recursos
 
 ```
- $resource = $(az resource list -g  rg-as-gcomercial-matchperfecto-noprd --query '[].id' --output tsv)
+ $resource = $(az resource list -g  nombre-grupo-de-recurso --query '[].id' --output tsv)
 ```
 
 # Crea tus tags
