@@ -1,12 +1,14 @@
 <div align="center">
 
-# AzureScrips para tareas repetitivas
+![Azure](content/image.png)
+
+# ⛅ AzureScrips para tareas repetitivas ⛅
 
 En este repositorio podras encontrar scrips , que ayudan a facilitar tareas tipicas en la nube de azure
 
 </div>
 
-# Para esto Necesitaras :
+# Para esto Necesitaras 🔧⚙️ :
 
 -  💻**instalar la CLI de azure que puedes encontrar en :**
 
@@ -16,6 +18,7 @@ En este repositorio podras encontrar scrips , que ayudan a facilitar tareas tipi
 
 <a href='https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.5'> Powershell </a>
 
-# Permisos en Azure:
+# Permisos en Azure 🪪:
+
 
 - deberas por lo menos poseer permisos de contribuidor sobre los grupos de recursos en las suscripciones de tu nube
