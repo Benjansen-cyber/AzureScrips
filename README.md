@@ -1,6 +1,6 @@
 <div align="center">
 
-![Azure](content/image.png)
+<img src="content/image.png" alt="Azure" width="100"/>
 
 # ⛅ AzureScrips para tareas repetitivas ⛅
 
