@@ -22,4 +22,4 @@ En este repositorio podras encontrar scrips , que ayudan a facilitar tareas tipi
 
 - deberas por lo menos poseer permisos de contribuidor sobre los grupos de recursos en las suscripciones de tu nube
 
-<div align="left"> autor : @Benjansen-cyber </div>
+<div align="center"><a href="https://www.linkedin.com/in/benjamin-torres-aros-b68094200/"> Linkedin </div>
