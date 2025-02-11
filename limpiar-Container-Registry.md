@@ -29,7 +29,7 @@ debes ingresar a la suscripcion en donde se encuentra el ACR que modificaremos.
 ## obtener el nombre de los repositorios en el ACR
 
 ```
-$repositorios = (az acr repository list --name $ACR_NAME --output tsv) 
+$repositorios = (az acr repository list --name $acr_name --output tsv) 
 ```
 
 ## recorrer repositorios para identificar cuantas imagenes se deberean eliminar
